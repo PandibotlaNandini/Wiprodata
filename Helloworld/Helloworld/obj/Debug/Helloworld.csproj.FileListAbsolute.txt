@@ -1,8 +1,0 @@
-C:\Users\nandi\OneDrive\Desktop\Wipro\Helloworld\Helloworld\bin\Debug\Helloworld.exe.config
-C:\Users\nandi\OneDrive\Desktop\Wipro\Helloworld\Helloworld\bin\Debug\Helloworld.exe
-C:\Users\nandi\OneDrive\Desktop\Wipro\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
-C:\Users\nandi\OneDrive\Desktop\Wipro\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.AssemblyReference.cache
-C:\Users\nandi\OneDrive\Desktop\Wipro\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
-C:\Users\nandi\OneDrive\Desktop\Wipro\Helloworld\Helloworld\obj\Debug\Helloworld.exe
-C:\Users\nandi\OneDrive\Desktop\Wipro\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
-C:\Users\nandi\OneDrive\Desktop\Wipro\Helloworld\Helloworld\obj\Debug\Helloworld.exe.config

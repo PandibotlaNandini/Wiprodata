@@ -1,0 +1,7 @@
+C:\Users\nandi\OneDrive\Desktop\Wipro\Variable\Variable\bin\Debug\Variable.exe.config
+C:\Users\nandi\OneDrive\Desktop\Wipro\Variable\Variable\bin\Debug\Variable.exe
+C:\Users\nandi\OneDrive\Desktop\Wipro\Variable\Variable\bin\Debug\Variable.pdb
+C:\Users\nandi\OneDrive\Desktop\Wipro\Variable\Variable\obj\Debug\Variable.csproj.AssemblyReference.cache
+C:\Users\nandi\OneDrive\Desktop\Wipro\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\Users\nandi\OneDrive\Desktop\Wipro\Variable\Variable\obj\Debug\Variable.exe
+C:\Users\nandi\OneDrive\Desktop\Wipro\Variable\Variable\obj\Debug\Variable.pdb
